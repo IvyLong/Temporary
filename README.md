@@ -20,6 +20,7 @@ Some links of resources for self-learning:
 - [Intro to Docker](http://realestate-com-au.github.io/intro-to-docker/exercises/containers.html#1)
 - [Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 - [dbt](https://docs.getdbt.com/docs/introduction/)
+- [CI/CD using Github Action](https://lab.github.com/MSUSDEV/build-end-to-end-cicd-capabilities-directly-in-github)
 
 
 ## Data Analyst
