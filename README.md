@@ -1,6 +1,6 @@
 # Learning Resources
 
-## Data Engineering
+## Data Engineer
 ### SQL
 - [Online SQL exercises](https://pgexercises.com/)
 
@@ -20,3 +20,7 @@ Some links of resources for self-learning:
 - [Intro to Docker](http://realestate-com-au.github.io/intro-to-docker/exercises/containers.html#1)
 - [Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
 - [dbt](https://docs.getdbt.com/docs/introduction/)
+
+
+## Data Analyst
+- [PowerBI](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w)
